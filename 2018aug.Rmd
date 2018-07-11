@@ -665,6 +665,8 @@ knitr::include_url("https://fusiontables.googleusercontent.com/embedviz?q=select
 
 - Project proposal has to be registered report.
 - If project PI is single, the committees will assign one collobrator help compose the well-written proposal to be submitted.
+- Lab PI decide if he/she will join this project at this time. 
+- Each participating lab takes the research ethic approval respectively.  
 
 - **If I have more time**, I'd like to share more about PSA and colloborative projects. 
 
