@@ -653,9 +653,7 @@ Q6:要如何公開資料才能提昇研究品質？
 [Quentin et al. (2017)](https://www.tandfonline.com/doi/abs/10.1080/23743603.2017.1326760)
 
 
-----
-
-![](http://i1279.photobucket.com/albums/y524/Jon_Grahe/CREP%20Logo%203_zps5xwlbtxu.png){width=8%}**[The Collaborative Replication and Education Project (CREP)](https://osf.io/wfc6u/)**
+## [](http://i1279.photobucket.com/albums/y524/Jon_Grahe/CREP%20Logo%203_zps5xwlbtxu.png){width=8%}**[The Collaborative Replication and Education Project (CREP)](https://osf.io/wfc6u/)**
 
 <div id="left">
 ![](https://pbs.twimg.com/profile_images/956026350128812032/RL5Sl1B7_400x400.jpg){width=50%}  
@@ -664,9 +662,9 @@ Q6:要如何公開資料才能提昇研究品質？
 <small>Mark Brandt</small>
 </div>
 <div id="right">
-- <small>Launching in 2013; 1st CERN model in Psychological Science</small>
-- <small>"**Purpose:**  Through student participation in large-scale replication efforts we aim to (1) facilitate student research training and (2) solidify research findings in psychological science." (**RRR for undergraduates**)</small>
-- <small>Each year CREP open one project for the undergraduate researchers under the supervise of their faculty. The supervisers are able to intergrate the CREP projects into their teachings.</small>
+- <small>Launching in 2013; **Regular RRR for undergraduate researchers**</small>
+- <small>"**Purpose:**  Through student participation in large-scale replication efforts we aim to (1) facilitate student research training and (2) solidify research findings in psychological science." </small>
+- <small>Each year CREP open one project for the undergraduates. Their supervisers are able to intergrate the CREP projects into their teachings.</small>
 - <small>[2018 project](https://psysciacc.org/2018/04/08/the-accelerated-crep/) is being operated by CREP and PSA.</small>
 </div>
 
