@@ -2,10 +2,10 @@
 output: 
   revealjs::revealjs_presentation:
     transition: none
-    theme: sky
+    theme: black
     center: true
-    #width: "80%"
-    #height: "80%"
+    width: "100%"
+    height: "100%"
     margin: 0
     minScale: 1
     maxScale: 1
@@ -43,25 +43,25 @@ css: style.css
 
 **Orientation** Stanfield & Zwaan (2001)
 
-![](00011.jpg)
+![](00011.jpg){width=150%}
 
-retrieved from Bergen (2012)
+<small>source: Bergen (2012)</small>
 
 ----
 
 **Shape** Zwaan, Stanfield, & Yaxley (2002)
 
-![](00012.jpg)
+![](00012.jpg){width=150%}
 
-retrieved from Bergen (2012)
+<small>source: Bergen (2012)</small>
 
 ----
 
 **Color** Connell(2005, 2007)
 
-![](00014.jpg)
+![](00014.jpg){width=150%}
 
-retrieved from Bergen (2012)
+<small>source: Bergen (2012)</small>
 
 ----
 
@@ -76,16 +76,17 @@ retrieved from Bergen (2012)
 Q1：你認為這樣的研究渉及捏造(fabrication)與篡改(falsification)嗎？
 
 
-# 2011：心理科學再現危機元年
+# 2011:心理科學再現危機元年
 
 ## Diederik Stapel造假事件
 
 <div id="left">
 ![](foto diederik.gif)
+<small>Diederik Stapel</small>
 </div>
 
 <div id="right">
-Exposed by 3 junior researchers
+Exposed by 3 junior researchers @ TU
 
 Investigated by 3 universities
 
@@ -118,7 +119,8 @@ Started to develope [GRIM test](http://www.prepubmed.org/grim_test/)
 ## Daryl Bem超感知覺研究爭議
 
 <div id="left">
-![](http://elojocritico.info/wp-content/uploads/2013/11/DARYL.jpg)
+![](http://elojocritico.info/wp-content/uploads/2013/11/DARYL.jpg){width=60%}
+<small>Daryl Bem</small>
 </div>
 
 <div id="right">
@@ -157,21 +159,26 @@ JPSP rejected failed replication([Ritchie, Wiseman, & French, 2012](http://journ
 </div>
 
 <div id="right">
-![](Bem_teach_Harking.png)
+![](Bem_teach_Harking.png){width=90%}
 </div>
 
 ## End of Science?
 
-![](endofWorld.jpg)
+![](endofWorld.jpg){width=90%}
+
+## How bad sciences came to the world?
+
+![](paths.png){width=75%}
 
 ## QRP檢核表
 
 <div id="left">
 ![](https://webwijs.uvt.nl/photos/240404.jpg?1490856177)
+<small>Jelte Wicherts</small>
 </div>
 
 <div id="right">
-![](fpsyg-07-01832-t001.jpg){width=50%}</br>
+![](fpsyg-07-01832-t001.jpg){width=70%}</br>
 <small>(Wicherts et al., 2016)</small>
 </div>
 
@@ -190,11 +197,18 @@ JPSP rejected failed replication([Ritchie, Wiseman, & French, 2012](http://journ
 
 <div id="left">
 ![](http://psych.cf.ac.uk/images_new/people/200/chambersc1.jpg)
+<small>Chris Chambers</small>
 </div>
 
 <div id="right">
 ![](7sins.png){ width=50% }
 </div>
+
+----
+
+![](ScreenTimeEvent-Chambers-2018-priamid.jpg){width=75%}
+<small>(Chambers, 2018 London)</small>
+
 
 # Q & A Part 1
 
@@ -204,13 +218,13 @@ Q1:操作有疑問的研究都是涉及捏造與篡改嗎？
 
 Q2:經不起考驗的研究結果會傷害研究誠信嗎？
 
-# ![](https://mfr.osf.io/export?url=https://osf.io/sxn73/?action=download%26mode=render%26direct%26public_file=True&initialWidth=828&childId=mfrIframe&parentTitle=OSF+%7C+preregistered_large_color.png&parentUrl=https://osf.io/sxn73/&format=2400x2400.jpeg){width=30%}解方一：預先註冊與註冊報告
+# 預先註冊與註冊報告![](https://mfr.osf.io/export?url=https://osf.io/sxn73/?action=download%26mode=render%26direct%26public_file=True&initialWidth=828&childId=mfrIframe&parentTitle=OSF+%7C+preregistered_large_color.png&parentUrl=https://osf.io/sxn73/&format=2400x2400.jpeg){width=20%}
 
 ##
 
-預先註冊(Preregistration):第一階段沒有同儕評審
+預先註冊(Preregistration):收集資料前，註冊的研究計畫沒有同儕評審
 
-註冊報告(Registered Report):第一階段有同儕評審
+註冊報告(Registered Report):收集資料前，註冊的研究計畫有同儕評審
 
 註冊再現研究(Registered Replication Report)
 
@@ -218,9 +232,9 @@ Q2:經不起考驗的研究結果會傷害研究誠信嗎？
 
 ## 預先註冊(Preregistration)
 
-The researcher creates as detailed a description of his or her plans for a study as possible and saves those plans in a time-stamped, uneditable archive. This record can be shared with reviewers, editors, and other researchers.
+"The researcher creates as detailed a description of his or her plans for a study as possible and saves those plans in a time-stamped, uneditable archive. This record can be shared with reviewers, editors, and other researchers." (Lindsay, Simons, & Lilienfeld, 2016)
 
-My understanding: Preregistration and registered report in social science follow the framework of [Randomized Controlled Trial](https://en.wikipedia.org/wiki/Randomized_controlled_trial) but make a space for researcher flexibility.  
+My understanding: Preregistration and registered report in social science follow the framework of [Randomized Controlled Trial](https://en.wikipedia.org/wiki/Randomized_controlled_trial) but have a space for the exploratory. **Transparent research process** is the researchers have to manage after the research plan was frozen.  
 
 ## 註冊你的專案
 
@@ -259,11 +273,13 @@ My understanding: Preregistration and registered report in social science follow
 
 **How to select my preregistration?**
 
+Check Chris Chambers' [pyramid](#2/15).
+
 ```{r echo=FALSE, message=FALSE, warning=FALSE, results='asis'}
-Situation = c("Theory without prediction, No data",
-                                       "Theory without prediction, Pilot showed some things",
-                                       "Theory with prediction, Pilot supported predictions",
-                                       "Theory with prediction, EXP confirmed predictions")
+Situation = c("Theory without prediction, No data(**Status quo**)",
+                                       "Theory without prediction, Pilot showed some things(**Exploratory**)",
+                                       "Theory with prediction, Pilot supported predictions(**Confirmatory**)",
+                                       "Theory with prediction, EXP confirmed predictions(**Registered Report**)")
 Suggestion = c("Nothing for preregistration",
                                         "Open-End",
                                         "OSF-standard",
@@ -274,6 +290,12 @@ knitr::kable(Prereg, row.names = FALSE, col.names = c("Information before Study"
 
 <small>Pilot: Study without sample size justification; Secondary data set</small> </br>
 <small>EXP: Study with sample size justification</small>
+
+## 真正有用的預先註冊
+
+No matter which form you register your plan, make everything you register in the form public.
+
+不論使用那一種表格註冊研究計畫，研究完成後必須確保所有預定紀錄的內容永遠公開。
 
 ## 註冊報告(Registered Report)
 
@@ -289,7 +311,7 @@ knitr::kable(Prereg, row.names = FALSE, col.names = c("Information before Study"
 
 ----
 
-![](RR_effects.png)
+![](RR_effects.png){width=95%}
 
 ## 註冊再現研究(Registered Replication Report)
 
@@ -301,6 +323,7 @@ knitr::kable(Prereg, row.names = FALSE, col.names = c("Information before Study"
 
 <div id="left">
 ![](https://www.healthnewsreview.org/wp-content/uploads/2015/11/Ioannidis.png)
+<small>John Ioannidis</small>
 </div>
 <div id="right">
 ![](FPR.jpg){width=80%}
@@ -329,6 +352,7 @@ knitr::kable(Prereg, row.names = FALSE, col.names = c("Information before Study"
 
 <div id="left">
 ![](http://danielefanelli.com/images/Fanelli3.cut.small.jpg)
+<small>Daniele Fanelli </small>
 </div>
 <div id="right">
 ![](journal.pone.0010068.g001.png){width=75%}
@@ -351,7 +375,7 @@ knitr::kable(Prereg, row.names = FALSE, col.names = c("Information before Study"
 ![](https://content.artofmanliness.com/uploads/2012/01/ego.jpg)
 </div>
 <div id="right">
-![](http://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/ppsa/2016/ppsa_11_4/1745691616652873/20170629/images/medium/10.1177_1745691616652873-fig2.gif)
+![](http://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/ppsa/2016/ppsa_11_4/1745691616652873/20170629/images/medium/10.1177_1745691616652873-fig2.gif){width=120%}
 <small>Hagger, Chatzisarantis et al. (2016)</small>
 </div>
 
@@ -363,7 +387,7 @@ knitr::kable(Prereg, row.names = FALSE, col.names = c("Information before Study"
 ![](http://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/ppsa/2016/ppsa_11_6/1745691616674458/20170315/images/medium/10.1177_1745691616674458-fig1.gif)
 </div>
 <div id="right">
-![](http://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/ppsa/2016/ppsa_11_6/1745691616674458/20170315/images/medium/10.1177_1745691616674458-fig4.gif)
+![](http://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/ppsa/2016/ppsa_11_6/1745691616674458/20170315/images/medium/10.1177_1745691616674458-fig4.gif){width=120%}
 <small>Wagenmakers, Beek, Dijkhoff, Gronau et al. (2016)</small>
 </div>
 
@@ -376,12 +400,13 @@ Q3:我該不該改進研究操作？
 
 Q4:我要從什麼地方開始改進？
 
-# 2016：危機升級？轉機來臨？
+# 2016:危機升級?轉機來臨?
 
 ## 降級版權力姿勢效應
 
 <div id="left">
 ![](Cuddy_TED.jpg)
+Amy Cuddy @ TED talk
 </div>
 <div id="right">
 
@@ -409,16 +434,17 @@ Q4:我要從什麼地方開始改進？
 
 <div id="left">
 ![](Cuddy_TED.jpg)
+Amy Cuddy @ TED talk
 </div>
 <div id="right">
 
 **Take two minutes, you will...**
 
-| Boost self-confidence | reproducible, postural feedback effect |
+| Boost self-confidence | true positive but tiny effect |
 | --- | --- |
-| Intention to take risks | unreproducible |
-| More Testosterone | unreproducible |
-| Less Cortisone | unreproducible |
+| Intention to take risks | false positive |
+| More Testosterone | false positive |
+| Less Cortisone | false positive |
 
 </div>
 
@@ -439,14 +465,14 @@ Q4:我要從什麼地方開始改進？
 <div id="right">
 - PI of Cornell Food and Brand Lab (2005-)
 - 2007 IG Nobel Prize: bottomless bowls study
-- Author of "Mindless Eating(2005)" and "Slim by Design(2014)"
+- Author of "**Mindless Eating**(2005)" and "Slim by Design(2014)"
 - Smater Lunchrooms Project (NIFA funded, since 2012)
 - **Since Jan. 2017, 7 papers retracted and 15 corrected.**
 </div>
 
 ----
 
-**Wansink boasted how to make paper by QRPs**
+**Wansink boasted how to publish paper by QRPs**
 
 ![](pizzagate_start.png){width=50%}    
 <small>(Original date: [2016/11/21](https://web.archive.org/web/20170312041524/http:/www.brianwansink.com/phd-advice/the-grad-student-who-never-said-no)) </small>
@@ -471,18 +497,30 @@ All 4 Wansink-boasted papers have QRPs:
 
 ![](https://c2.staticflickr.com/4/3461/3825626940_cdc82d1a6b_z.jpg){ width=50% }  
 
-- The [fundamental paper](https://www.sciencedirect.com/science/article/pii/S0091743512003222) had been retracted because they collected the data from kinder gardens, not the elementary schools they claimed in this paper.  
+- The [fundamental paper](https://www.sciencedirect.com/science/article/pii/S0091743512003222) had been retracted because they collected the data from **kindergartens**, not the elementary schools they claimed in their paper.  
 
 ----
 
-Brian Wansink is on his position till this talk.
-
-# ![](https://mfr.osf.io/export?url=https://osf.io/hr67w/?action=download%26mode=render%26direct%26public_file=True&initialWidth=828&childId=mfrIframe&parentTitle=OSF+%7C+data_large_color.png&parentUrl=https://osf.io/hr67w/&format=2400x2400.jpeg){width=30%}解方二：提高資料透明度及品質
-
+請教長官：若類似情事發生於貴校，權責單位將如何處置？
 
 ----
 
-- 改變發表／補助機制
+本演講進行時，Brian Wansink還是康乃爾大學專任教授
+
+
+# 提高資料透明度及品質![](https://mfr.osf.io/export?url=https://osf.io/hr67w/?action=download%26mode=render%26direct%26public_file=True&initialWidth=828&childId=mfrIframe&parentTitle=OSF+%7C+data_large_color.png&parentUrl=https://osf.io/hr67w/&format=2400x2400.jpeg){width=20%}
+
+## Why "Prestigious" researchers don't open?
+
+![](http://www.cnep-uc.org/wp-content/uploads/NatureCover-624x820.png){width=40%}
+
+----
+
+![](Excuse_to_not_open.png){width=70%}
+
+## 小蝦米的逆襲
+
+- 改變發表／補助機制的草根力量
 - 資料品質鑑識工具
 - 開放研究資料累積平台
 
@@ -496,8 +534,27 @@ TU/E ERB statement:
 ----
 
 <div id="left">
+![](http://www.psy.lmu.de/pm/bilder/Links/rt_logo_square.png)
+![](http://www.psy.lmu.de/pm/personen/lehrstuhlmitarbeiter/schoenbrodt/felix_schoenbrodt_portrait2016.jpg){ width=50% }
+<small>Felix Schönbrodt</small>
+</div>
+<div id="right">
+**12 guidelines to improve research transparency and open science**
+
+- Doing own research
+- Being reviewers
+- Being PhD supervisors
+- Service to the field
+</div>
+
+----
+
+<div id="left">
 <small>[Peer Reviewers' Openness Initiative](https://opennessinitiative.org/)</small>  
-![](https://opennessinitiative.org/wp-content/uploads/2014/09/pro_lock_wide2-1024x410.png){ width=50% }
+![](PRO.png){ width=50% }
+
+![](http://psych.cf.ac.uk/images_new/people/200/moreyr.jpg){ width=50% }
+<small>Richard D. Morey</small>
 </div>
 
 <div id="right">
@@ -510,6 +567,7 @@ TU/E ERB statement:
 
 <div id="left">
 ![](statcheck_game.jpg)
+<small>statcheck team</small>
 </div>
 <div id="right">
 ![](statcheck_web.png){width=50%}
@@ -550,14 +608,13 @@ knitr::include_url("http://curatescience.org/collections/ego-depletion.html")
 
 ----
 
+**Mental simulation**
 ![](simulation_curate.png)
 
 ## 如何分享你的資料與分析程序
 
-- Open access to your analytic codes in your preregistration form.  
-![](https://mfr.osf.io/export?url=https://osf.io/t5nuj/?action=download%26mode=render%26direct%26public_file=True&initialWidth=828&childId=mfrIframe&parentTitle=OSF+%7C+preregisteredplus_large_color.png&parentUrl=https://osf.io/t5nuj/&format=2400x2400.jpeg){width=30%}
-- Share your data and materials in the open repository.
-![](https://mfr.osf.io/export?url=https://osf.io/u63nr/?action=download%26mode=render%26direct%26public_file=True&initialWidth=828&childId=mfrIframe&parentTitle=OSF+%7C+materials_large_color.png&parentUrl=https://osf.io/u63nr/&format=2400x2400.jpeg){width=30%}
+- Share your analytic codes in your preregistered plan.![](https://mfr.osf.io/export?url=https://osf.io/t5nuj/?action=download%26mode=render%26direct%26public_file=True&initialWidth=828&childId=mfrIframe&parentTitle=OSF+%7C+preregisteredplus_large_color.png&parentUrl=https://osf.io/t5nuj/&format=2400x2400.jpeg){width=15%}  
+- Share your data and materials in the open repository.![](https://mfr.osf.io/export?url=https://osf.io/u63nr/?action=download%26mode=render%26direct%26public_file=True&initialWidth=828&childId=mfrIframe&parentTitle=OSF+%7C+materials_large_color.png&parentUrl=https://osf.io/u63nr/&format=2400x2400.jpeg){width=10%}  
 - Request the supports of journal editors, funders, and institutions.  
 
 # Q & A Part 3
@@ -568,7 +625,7 @@ Q5:公開資料對我有何好處？
 
 Q6:要如何公開資料才能提昇研究品質？
 
-# 解方三：心理科學研究協作網路
+# 心理科學研究協作網路
 
 
 ## 協作模式
@@ -595,15 +652,33 @@ Q6:要如何公開資料才能提昇研究品質？
 
 [Quentin et al. (2017)](https://www.tandfonline.com/doi/abs/10.1080/23743603.2017.1326760)
 
+
+----
+
+![](http://i1279.photobucket.com/albums/y524/Jon_Grahe/CREP%20Logo%203_zps5xwlbtxu.png){width=8%}**[The Collaborative Replication and Education Project (CREP)](https://osf.io/wfc6u/)**
+
+<div id="left">
+![](https://pbs.twimg.com/profile_images/956026350128812032/RL5Sl1B7_400x400.jpg){width=50%}  
+<small>Jon Grahe</small>
+![](https://mjbrandt.files.wordpress.com/2015/08/20130224_1642131-e1440872678123.jpg){width=50%}
+<small>Mark Brandt</small>
+</div>
+<div id="right">
+- <small>Launching in 2013; 1st CERN model in Psychological Science</small>
+- <small>"**Purpose:**  Through student participation in large-scale replication efforts we aim to (1) facilitate student research training and (2) solidify research findings in psychological science." (**RRR for undergraduates**)</small>
+- <small>Each year CREP open one project for the undergraduate researchers under the supervise of their faculty. The supervisers are able to intergrate the CREP projects into their teachings.</small>
+- <small>[2018 project](https://psysciacc.org/2018/04/08/the-accelerated-crep/) is being operated by CREP and PSA.</small>
+</div>
+
 ## ![](http://sips.malte-elson.com/wp-content/uploads/2017/03/logo.png)
 
------
+----
 
 **Code of Conduct**
 
-The Society for the Improvement of Psychological Science (SIPS) holds professional conferences and other events to enable its members to work to **improve methods and practices in psychological science**, **build professional networks**, and **receive continuing education**.
+"The Society for the Improvement of Psychological Science (SIPS) holds professional conferences and other events to enable its members to work to **improve methods and practices in psychological science**, **build professional networks**, and **receive continuing education**."
 
-## SIPS events
+## SIPS meeting events
 
 - Workshop
 - Hachthon
@@ -618,7 +693,7 @@ The Society for the Improvement of Psychological Science (SIPS) holds profession
 ![](Chris.jpg){width=80%}
 </div>
 <div id="right">
-- [Initilized in 2016](https://osf.io/view/studyswap/) (SIPS 1st year)
+- [Launching in 2016](https://osf.io/view/studyswap/) (SIPS 1st year)
 
 - Register what you **Need** and what you **Have**.
 
@@ -638,28 +713,30 @@ The Society for the Improvement of Psychological Science (SIPS) holds profession
 
 **After you signed in PSA ...**
 
-- Collecting data
-- Reviewing study submissions
-- Serving on one of our [operational or advisory committees](https://psysciacc.wordpress.com/people/)
-- Providing feedback on the procedures, policies, and governance of the Accelerator
+- I collect data for all, all collect data for me
+- Review study submissions
+- Serve on one of [operational or advisory committees](https://psysciacc.wordpress.com/people/)
+- Provide feedback on the procedures, policies, and governance of the Accelerator
 
 - Check PSA [introductory paper](https://psyarxiv.com/785qu/)
 
-----
+## PSA sites map
 
-```{r labs-map, echo=FALSE, message=FALSE, warning=FALSE}
+```{r labs-map, fig.width=720, echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_url("https://fusiontables.googleusercontent.com/embedviz?q=select+col4+from+1IATtTqIk8ESi6su86_UlIwE9XZ49JDgWMCI-jvkk&viz=MAP&h=false&lat=49.95961088342022&lng=17.430138088922604&t=1&z=1&l=col4&y=2&tmplt=2&hml=ONE_COL_LAT_LNG")
 ```
 
 ----
 
-- Five operations and five advisory Committees
+- Five operations and five advisory committees (Organization will have a change before the end of 2018)
 - There are/will be five associate directors (one for two committees) and 20 assistant directors (two for one committees). 
-- PSA will open for the submission of project proposal for each 6 months. Each wave will accept 2~3 projects.
+- PSA will open for the submission of project proposal for each 6 months (One wave per month in future). Each wave will accept 2~3 projects.
 
 ## Workflow of PSA projects
 
 ![](PSA_workflow.jpg)
+<small>[Moshont et al. (in press)](https://psyarxiv.com/785qu/)</small>
+
 
 ## [How PSA manage your project](https://psysciacc.org/project-tracker/)
 
@@ -675,6 +752,7 @@ knitr::include_url("https://fusiontables.googleusercontent.com/embedviz?q=select
 
 ## 提昇與維持研究品質是建立誠信的基礎
 
+[開放七訣](https://osf.io/mxkap/)(Back et al., 2017 @ LMU)
 
 # Q & A Part 4
 
