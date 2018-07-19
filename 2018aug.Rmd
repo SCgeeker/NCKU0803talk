@@ -166,9 +166,13 @@ JPSP rejected failed replication([Ritchie, Wiseman, & French, 2012](http://journ
 
 ![](endofWorld.jpg){width=90%}
 
-## How bad sciences came to the world?
+## How p-hacking destroy science?
 
-![](paths.png){width=75%}
+![](paths.png){width=60%}
+
+<small>Return [power posing](#6/2)</small>  
+<small>Return [pizza papers](#6/6)</small>  
+
 
 ## QRP檢核表
 
@@ -179,7 +183,7 @@ JPSP rejected failed replication([Ritchie, Wiseman, & French, 2012](http://journ
 
 <div id="right">
 ![](fpsyg-07-01832-t001.jpg){width=70%}</br>
-<small>(Wicherts et al., 2016)</small>
+<small>[(Wicherts et al., 2016)](https://www.frontiersin.org/articles/10.3389/fpsyg.2016.01832/full)</small>
 </div>
 
 ## Six ways to p-hacking
@@ -206,6 +210,7 @@ JPSP rejected failed replication([Ritchie, Wiseman, & French, 2012](http://journ
 
 ----
 
+<small>Return [How to select my preregistration](#/section-6)</small>
 ![](ScreenTimeEvent-Chambers-2018-priamid.jpg){width=75%}
 <small>(Chambers, 2018 London)</small>
 
@@ -273,7 +278,7 @@ My understanding: Preregistration and registered report in social science follow
 
 **How to select my preregistration?**
 
-Check Chris Chambers' [pyramid](#2/15).
+Return Chris Chambers' [pyramid](#2/15).
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE, results='asis'}
 Situation = c("Theory without prediction, No data(**Status quo**)",
@@ -406,7 +411,7 @@ Q4:我要從什麼地方開始改進？
 
 <div id="left">
 ![](Cuddy_TED.jpg)
-Amy Cuddy @ TED talk
+<small>Amy Cuddy @ TED talk</small>
 </div>
 <div id="right">
 
@@ -426,7 +431,7 @@ Amy Cuddy @ TED talk
 
 - Failed replications (Ranehill, 2015)
 - Publication bias (Carney, Cuddy, & Yap, 2015; Simmons & Simonsohn, 2017)
-- Sloopy methods: p-hacking(Cherry picking) and HARKing (Bailey, LaFrance, & Dovidio, 2017; Cesario, Jonas, & Carney, 2017; Gronau et al., 2017; Jonas et al., 2017; Klaschinski, Schnabel, & Schröder-Abé, 2017; Latu, Duffy, Pardal, & Alger, 2017; Ronay, Tybur, van Huijstee, & Morssinkhof, 2016) 
+- Sloopy methods: [p-hacking(Cherry picking)](#/how-p-hacking-destroy-science) and HARKing (Bailey, LaFrance, & Dovidio, 2017; Cesario, Jonas, & Carney, 2017; Gronau et al., 2017; Jonas et al., 2017; Klaschinski, Schnabel, & Schröder-Abé, 2017; Latu, Duffy, Pardal, & Alger, 2017; Ronay, Tybur, van Huijstee, & Morssinkhof, 2016) 
 - Till present, there is a reproducible but slight **feeling of power**.
 
 ----
@@ -434,7 +439,7 @@ Amy Cuddy @ TED talk
 
 <div id="left">
 ![](Cuddy_TED.jpg)
-Amy Cuddy @ TED talk
+<small>Amy Cuddy @ TED talk</small>
 </div>
 <div id="right">
 
@@ -476,6 +481,8 @@ Amy Cuddy @ TED talk
 
 ![](pizzagate_start.png){width=50%}    
 <small>(Original date: [2016/11/21](https://web.archive.org/web/20170312041524/http:/www.brianwansink.com/phd-advice/the-grad-student-who-never-said-no)) </small>
+
+<small>Return [How p-hacking destroy science](#/how-p-hacking-destroy-science)</small>
 
 ----
 
@@ -531,7 +538,7 @@ All 4 Wansink-boasted papers have QRPs:
 TU/E ERB statement:
 ![](ERB_policy.png)
 
-----
+## [Commitment to Research Transparency and Open Science](http://www.researchtransparency.org/)
 
 <div id="left">
 ![](http://www.psy.lmu.de/pm/bilder/Links/rt_logo_square.png)
@@ -547,18 +554,17 @@ TU/E ERB statement:
 - Service to the field
 </div>
 
-----
+## [Peer Reviewers' Openness Initiative](https://opennessinitiative.org/)
 
 <div id="left">
-<small>[Peer Reviewers' Openness Initiative](https://opennessinitiative.org/)</small>  
-![](PRO.png){ width=50% }
+![](PRO.png)
 
 ![](http://psych.cf.ac.uk/images_new/people/200/moreyr.jpg){ width=50% }
 <small>Richard D. Morey</small>
 </div>
 
 <div id="right">
-![](PRO_2017news.png)
+![](PRO_2017news.png){ width=60% }
 </div>
 
 ---- 
@@ -584,7 +590,7 @@ TU/E ERB statement:
 |![Tim van der Zee](https://pbs.twimg.com/profile_images/856183017039175680/38u_WIGX_400x400.jpg) |
 </div>
 <div id="right">
-- [SPRITE](https://peerj.com/preprints/26968): Evaluzte the strange roudings of scaling data, more than 100 samples.  
+- [SPRITE](https://peerj.com/preprints/26968): Evaluate the strange roudings of scaling data, more than 100 samples.  
 ![](SPRITE_case.png)  
 ![](SPRITE_data.png)  
 <samll>from Wansink, Just, Payne, & Klinger (2012, retracted)</small>
@@ -601,8 +607,8 @@ TU/E ERB statement:
 
 ----
 
-**Ego depletion** (Recommended browser: Firefox)
-```{r ego-curate, echo=FALSE, message=FALSE, warning=FALSE}
+**Ego depletion** (Chrome使用者要解除網頁安全性封鎖)
+```{r ego-curate, fig.width=720, echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_url("http://curatescience.org/collections/ego-depletion.html")
 ```
 
@@ -751,6 +757,8 @@ knitr::include_url("https://fusiontables.googleusercontent.com/embedviz?q=select
 ## 提昇與維持研究品質是建立誠信的基礎
 
 [開放七訣](https://osf.io/mxkap/)(Back et al., 2017 @ LMU)
+
+# 感謝帶我進入開放科學的兩位心理科學家{data-background="http://www.educationandlearning.nl/uploads/cfeal/inline-images/20160121_Centre%20for%20Education%20and%20Learning_032.jpg"}
 
 # Q & A Part 4
 

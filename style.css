@@ -5,11 +5,12 @@
 }
 
 .reveal h1 {
-  color: #0df1dc;
+  color: #3cb371;
   font-size: 18;
 }
 
 .reveal h2 {
+  color: #00ff7f;
   text-align: left;
   font-size: 16;
 }
@@ -34,3 +35,5 @@
   z-index:-10;
   width:80%;
 }
+/* focus point for presentation */
+/* Start http://www.cursors-4u.com */ * {cursor: url(http://ani.cursors-4u.net/cursors/cur-13/cur1162.ani), url(http://ani.cursors-4u.net/cursors/cur-13/cur1162.png), auto !important;} /* End http://www.cursors-4u.com */
