@@ -704,7 +704,7 @@ Q6:要如何公開資料才能提昇研究品質？
 - [6 steps to Study Swap](https://twitter.com/Study_Swap/status/1016501689959047168)
 </div>
 
-## ![](https://psysciacc.files.wordpress.com/2017/10/cropped-cropped-psa.png){width=5%} Psychological Science Accelerator
+## ![](https://psysciacc.files.wordpress.com/2017/10/cropped-cropped-psa.png){width=5%} [Psychological Science Accelerator](https://psysciacc.org/)
 
 <div id="left">
 ![](Chris.jpg){width=80%}
@@ -715,7 +715,7 @@ Q6:要如何公開資料才能提昇研究品質？
 
 ----
 
-**After you signed in PSA ...**
+**After you [signed in PSA](https://psysciacc.org/get-involved/) ...**
 
 - I collect data for all, all collect data for me
 - Review study submissions
