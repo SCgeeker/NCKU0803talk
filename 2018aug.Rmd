@@ -531,12 +531,6 @@ All 4 Wansink-boasted papers have QRPs:
 - 資料品質鑑識工具
 - 開放研究資料累積平台
 
-----
-
-**Codes of Conduct for Good Academic Practice**  
-
-TU/E ERB statement:
-![](ERB_policy.png)
 
 ## [Commitment to Research Transparency and Open Science](http://www.researchtransparency.org/)
 
