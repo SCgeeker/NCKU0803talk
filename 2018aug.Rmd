@@ -173,6 +173,16 @@ JPSP rejected failed replication([Ritchie, Wiseman, & French, 2012](http://journ
 <small>Return [power posing](#6/2)</small>  
 <small>Return [pizza papers](#6/6)</small>  
 
+## Six ways to p-hacking
+
+1. Stop collecting data once p <.05.  
+2. Analyze many measures, but report only those with p <.05.  
+3. Collect and analyze many conditions, but only report those with p < .05.
+4. Use covariates to get p < .05.
+5. Exclude participants to get p < .05.
+6. Transform the data to get p < .05.
+
+<small>[Nelson(2014)](https://bitssblog.files.wordpress.com/2014/02/nelson-presentation.pdf)</small>
 
 ## QRP檢核表
 
@@ -186,16 +196,6 @@ JPSP rejected failed replication([Ritchie, Wiseman, & French, 2012](http://journ
 <small>[(Wicherts et al., 2016)](https://www.frontiersin.org/articles/10.3389/fpsyg.2016.01832/full)</small>
 </div>
 
-## Six ways to p-hacking
-
-1. Stop collecting data once p <.05.  
-2. Analyze many measures, but report only those with p <.05.  
-3. Collect and analyze many conditions, but only report those with p < .05.
-4. Use covariates to get p < .05.
-5. Exclude participants to get p < .05.
-6. Transform the data to get p < .05.
-
-<small>[Nelson(2014)](https://bitssblog.files.wordpress.com/2014/02/nelson-presentation.pdf)</small>
 
 ## 推薦閱讀
 
@@ -259,7 +259,7 @@ My understanding: Preregistration and registered report in social science follow
 
 ## 
 
-**AsPredicated registration**
+**[AsPredicated registration](https://aspredicted.org/)**
 
 ![](AsPredicted.png)
 
@@ -274,9 +274,9 @@ My understanding: Preregistration and registered report in social science follow
 
 ![](https://cdn.cos.io/media/images/pre-reg-flow-bold.original.png){width=30%}
 
-##
+----
 
-**How to select my preregistration?**
+**How to select/create my preregistration form?**
 
 Return Chris Chambers' [pyramid](#2/15).
 
@@ -295,6 +295,7 @@ knitr::kable(Prereg, row.names = FALSE, col.names = c("Information before Study"
 
 <small>Pilot: Study without sample size justification; Secondary data set</small> </br>
 <small>EXP: Study with sample size justification</small>
+
 
 ## 真正有用的預先註冊
 
