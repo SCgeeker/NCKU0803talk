@@ -667,6 +667,7 @@ Q6:要如何公開資料才能提昇研究品質？
 - <small>"**Purpose:**  Through student participation in large-scale replication efforts we aim to (1) facilitate student research training and (2) solidify research findings in psychological science." </small>
 - <small>Each year CREP open one project for the undergraduates. Their supervisers are able to intergrate the CREP projects into their teachings.</small>
 - <small>[2018 project](https://psysciacc.org/2018/04/08/the-accelerated-crep/) is being operated by CREP and PSA.</small>
+- <small>[For your more information](https://osf.io/qxubp/)</small>
 </div>
 
 ## ![](http://sips.malte-elson.com/wp-content/uploads/2017/03/logo.png)
@@ -725,11 +726,14 @@ Q6:要如何公開資料才能提昇研究品質？
 knitr::include_url("https://fusiontables.googleusercontent.com/embedviz?q=select+col4+from+1IATtTqIk8ESi6su86_UlIwE9XZ49JDgWMCI-jvkk&viz=MAP&h=false&lat=49.95961088342022&lng=17.430138088922604&t=1&z=1&l=col4&y=2&tmplt=2&hml=ONE_COL_LAT_LNG")
 ```
 
+<!---
 ----
 
 - Five operations and five advisory committees (Organization will have a change before the end of 2018)
 - There are/will be five associate directors (one for two committees) and 20 assistant directors (two for one committees). 
 - PSA will open for the submission of project proposal for each 6 months (One wave per month in future). Each wave will accept 2~3 projects.
+
+-->
 
 ## Workflow of PSA projects
 
@@ -745,6 +749,8 @@ knitr::include_url("https://fusiontables.googleusercontent.com/embedviz?q=select
 - Each participating lab takes the research ethic approval respectively.  
 
 - **If I have more time**, I'd like to share more about PSA and colloborative projects. 
+
+<small>[For your more information](https://osf.io/fgwd2/)</small>
 
 # 心理科學危機帶來的啟示
 
