@@ -487,7 +487,7 @@ Q4:我要從什麼地方開始改進？
 
 ----
 
-**[GRIM](https://peerj.com/preprints/2064/)**: A tool to check the spooky roundings.
+**[GRIM](https://peerj.com/preprints/2064/)**: A tool to check the spooky roundings of scaling data, less than 100 samples.
 
 | ![James Heathers](https://pbs.twimg.com/profile_images/837760012382502913/epVhG9ut_400x400.jpg){ width=50% } | ![Nick Brown](https://pbs.twimg.com/profile_images/903663911689486336/L4eTyLpN_400x400.jpg) | ![Jordan Anaya](https://pbs.twimg.com/profile_images/702907922339262464/BnI1G8HM_400x400.jpg) | ![Tim van der Zee](https://pbs.twimg.com/profile_images/856183017039175680/38u_WIGX_400x400.jpg){ width=50% } |
 |---|---|---|---|
@@ -562,33 +562,34 @@ All 4 Wansink-boasted papers have QRPs:
 ![](PRO_2017news.png){ width=60% }
 </div>
 
----- 
-
-**Evaluation tools of data quality**
+## [Statcheck](http://statcheck.io/) 
 
 <div id="left">
 ![](statcheck_game.jpg)
 <small>statcheck team</small>
 </div>
 <div id="right">
+Some journals (e.g., Psychological Science) recommend  **statcheck** your own paper before submission. 
+
 ![](statcheck_web.png){width=50%}
+
 ![](statcheck_pubpeer.png){width=50%}
 </div>
 
-----
+## [SPRITE](https://steamtraen.shinyapps.io/rsprite/)
 
 <div id="left">
-| ![James Heathers](https://pbs.twimg.com/profile_images/837760012382502913/epVhG9ut_400x400.jpg) |
+| ![James Heathers](https://pbs.twimg.com/profile_images/837760012382502913/epVhG9ut_400x400.jpg){width=50%} |
 |---|
-|![Nick Brown](https://pbs.twimg.com/profile_images/903663911689486336/L4eTyLpN_400x400.jpg) | 
-|![Jordan Anaya](https://pbs.twimg.com/profile_images/702907922339262464/BnI1G8HM_400x400.jpg) | 
-|![Tim van der Zee](https://pbs.twimg.com/profile_images/856183017039175680/38u_WIGX_400x400.jpg) |
+|![Nick Brown](https://pbs.twimg.com/profile_images/903663911689486336/L4eTyLpN_400x400.jpg){width=50%} | 
+|![Jordan Anaya](https://pbs.twimg.com/profile_images/702907922339262464/BnI1G8HM_400x400.jpg){width=50%} | 
+|![Tim van der Zee](https://pbs.twimg.com/profile_images/856183017039175680/38u_WIGX_400x400.jpg){width=50%} |
 </div>
 <div id="right">
-- [SPRITE](https://peerj.com/preprints/26968): Evaluate the strange roudings of scaling data, more than 100 samples.  
+- [SPRITE](https://peerj.com/preprints/26968) is able to evaluate the strange roudings of scaling data, more than 100 samples.  
 ![](SPRITE_case.png)  
 ![](SPRITE_data.png)  
-<samll>from Wansink, Just, Payne, & Klinger (2012, retracted)</small>
+<samll> from Wansink, Just, Payne, & Klinger (2012, retracted) </small>
 </div>
 
 ## [Curate Science](http://curatescience.org/)
@@ -663,11 +664,11 @@ Q6:要如何公開資料才能提昇研究品質？
 <small>Mark Brandt</small>
 </div>
 <div id="right">
-- <small>Launching in 2013; **Regular RRR for undergraduate researchers**</small>
-- <small>"**Purpose:**  Through student participation in large-scale replication efforts we aim to (1) facilitate student research training and (2) solidify research findings in psychological science." </small>
-- <small>Each year CREP open one project for the undergraduates. Their supervisers are able to intergrate the CREP projects into their teachings.</small>
-- <small>[2018 project](https://psysciacc.org/2018/04/08/the-accelerated-crep/) is being operated by CREP and PSA.</small>
-- <small>[For your more information](https://osf.io/qxubp/)</small>
+<small>- Launching in 2013; **Regular RRR for undergraduate researchers**</small>
+<small>- "**Purpose:**  Through student participation in large-scale replication efforts we aim to (1) facilitate student research training and (2) solidify research findings in psychological science." </small>
+<small>- Each year CREP open one project for the undergraduates. Their supervisers are able to intergrate the CREP projects into their teachings.</small>
+<small>- [2018 project](https://psysciacc.org/2018/04/08/the-accelerated-crep/) is being operated by CREP and PSA.</small>  
+<small>[For your more information](https://osf.io/qxubp/)</small>
 </div>
 
 ## ![](http://sips.malte-elson.com/wp-content/uploads/2017/03/logo.png)
