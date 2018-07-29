@@ -301,7 +301,7 @@ knitr::kable(Prereg, row.names = FALSE, col.names = c("Information before Study"
 
 No matter which form you register your plan, make everything you register in the form public.
 
-不論使用那一種表格註冊研究計畫，研究完成後必須確保所有預定紀錄的內容永遠公開。
+不論使用什麼樣的預先註冊表格，研究完成後必須確保所有預定紀錄的內容永遠公開。
 
 ## 註冊報告(Registered Report)
 
@@ -760,7 +760,7 @@ knitr::include_url("https://fusiontables.googleusercontent.com/embedviz?q=select
 
 [開放七訣](https://osf.io/mxkap/)(Back et al., 2017 @ LMU)
 
-# 感謝帶我進入開放科學的兩位心理科學家{data-background="http://www.educationandlearning.nl/uploads/cfeal/inline-images/20160121_Centre%20for%20Education%20and%20Learning_032.jpg"}
+# 感謝我的兩位引路人{data-background="http://www.educationandlearning.nl/uploads/cfeal/inline-images/20160121_Centre%20for%20Education%20and%20Learning_032.jpg"}
 
 # Q & A Part 4
 
