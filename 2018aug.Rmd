@@ -319,6 +319,12 @@ No matter which form you register your plan, make everything you register in the
 
 ![](RR_effects.png){width=95%}
 
+## How to find and select RR journal
+
+- [COS RR service](https://cos.io/rr/)
+- [Latest summary table](https://docs.google.com/spreadsheets/d/1D4_k-8C_UENTRtbPzXfhjEyu3BfLxdOsn9j-otrO870/edit#gid=0): Check list of 21 features; Pre-study peer review (stage 1 peer review) and Provisional pre-study acceptance (in-principle acceptance) are the minimal criteria. 
+- [Turn your target journal RR](https://osf.io/tghnz/): Templete letter to editor(s).
+
 ## 註冊再現研究(Registered Replication Report)
 
 <iframe width="640" height="480" src="https://www.youtube.com/embed/r7sCGIqzG38?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
