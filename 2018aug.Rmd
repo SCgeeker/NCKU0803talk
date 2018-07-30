@@ -210,10 +210,11 @@ JPSP rejected failed replication([Ritchie, Wiseman, & French, 2012](http://journ
 
 ----
 
-<small>Return [How to select my preregistration](#/section-6)</small>
-![](ScreenTimeEvent-Chambers-2018-priamid.jpg){width=75%}
-<small>(Chambers, 2018 London)</small>
+![](ScreenTimeEvent-Chambers-2018-priamid.jpg){width=70%}</br>
+<small>(Chambers, 2018 London)</small>  
 
+<small>Return [How to select my preregistration](#4/8)</small> </br>
+<small>Return [RR: Take Home Message](#/take-home-message)</small>
 
 # Q & A Part 1
 
@@ -278,7 +279,7 @@ My understanding: Preregistration and registered report in social science follow
 
 **How to select/create my preregistration form?**
 
-Return Chris Chambers' [pyramid](#2/15).
+Return [Evidence Pyramid](#2/15)  
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE, results='asis'}
 Situation = c("Theory without prediction, No data(**Status quo**)",
@@ -379,6 +380,7 @@ No matter which form you register your plan, make everything you register in the
 
 - Well-designed replication studies should be published regardless of the **size of the effect** or statistical significance of the result.
 
+<!---
 ----
 
 **Ego depletion**
@@ -391,6 +393,8 @@ No matter which form you register your plan, make everything you register in the
 <small>Hagger, Chatzisarantis et al. (2016)</small>
 </div>
 
+--->
+
 ----
 
 **Facial Feedback Effect**
@@ -402,6 +406,11 @@ No matter which form you register your plan, make everything you register in the
 ![](http://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/ppsa/2016/ppsa_11_6/1745691616674458/20170315/images/medium/10.1177_1745691616674458-fig4.gif){width=120%}
 <small>Wagenmakers, Beek, Dijkhoff, Gronau et al. (2016)</small>
 </div>
+
+## Take Home Message
+
+![](https://pbs.twimg.com/media/DjV2UuMUwAAc0sA.jpg){width=60%}  </br>
+<small>Return [Evidence Pyramid](#2/15)</small>
 
 
 # Q & A Part 2
