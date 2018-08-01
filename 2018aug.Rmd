@@ -518,9 +518,10 @@ All 4 Wansink-boasted papers have QRPs:
 
 **Questions in Smater Lunchrooms**  
 
-![](https://c2.staticflickr.com/4/3461/3825626940_cdc82d1a6b_z.jpg){ width=50% }  
+![](elmo-apple.jpg){ width=50% }  
 
-- The [fundamental paper](https://www.sciencedirect.com/science/article/pii/S0091743512003222) had been retracted because they collected the data from **kindergartens**, not the elementary schools they claimed in their paper.  
+- [This paper](https://www.sciencedirect.com/science/article/pii/S0091743512003222) had been retracted because they collected the data from **kindergartens**, not the elementary schools they claimed in their paper.  
+- Later we will know how the questioned data were detected.
 
 ----
 
@@ -601,10 +602,12 @@ Some journals (e.g., Psychological Science) recommend  **statcheck** your own pa
 |![Tim van der Zee](https://pbs.twimg.com/profile_images/856183017039175680/38u_WIGX_400x400.jpg){width=50%} |
 </div>
 <div id="right">
-- [SPRITE](https://peerj.com/preprints/26968) is able to evaluate the strange roudings of scaling data, more than 100 samples.  
+- <small>[SPRITE](https://peerj.com/preprints/26968) is designed to evaluate the strange roudings of scaling data, more than 100 samples.</small>  
 ![](SPRITE_case.png)  
-![](SPRITE_data.png)  
-<samll> from Wansink, Just, Payne, & Klinger (2012, retracted) </small>
+<small>Wansink, Just, Payne, & Klinger (2012, retracted) </small></br>
+![](SPRITE_data.png)   
+<small>Heathers, Anaya, van der Zee, Brown (2018). Listen more on [soundcloud](https://soundcloud.com/reproducibilitea/specialitea-1-tim-van-der-zee).</small>
+
 </div>
 
 ## [Curate Science](http://curatescience.org/)
