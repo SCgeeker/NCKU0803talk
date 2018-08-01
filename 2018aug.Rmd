@@ -184,7 +184,8 @@ JPSP rejected failed replication([Ritchie, Wiseman, & French, 2012](http://journ
 
 <small>[Nelson(2014)](https://bitssblog.files.wordpress.com/2014/02/nelson-presentation.pdf)</small>
 
-## QRP檢核表
+
+## QRP Checklist
 
 <div id="left">
 ![](https://webwijs.uvt.nl/photos/240404.jpg?1490856177)
@@ -195,6 +196,10 @@ JPSP rejected failed replication([Ritchie, Wiseman, & French, 2012](http://journ
 ![](fpsyg-07-01832-t001.jpg){width=70%}</br>
 <small>[(Wicherts et al., 2016)](https://www.frontiersin.org/articles/10.3389/fpsyg.2016.01832/full)</small>
 </div>
+
+## Review process could harm research quality
+
+![](Tim_tweet_20180801.png)
 
 
 ## 推薦閱讀
