@@ -284,7 +284,7 @@ My understanding: Preregistration and registered report in social science follow
 
 **How to select/create my preregistration form?**
 
-Return [Evidence Pyramid](#2/15)  
+Return [Evidence Pyramid](#2/16)  
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE, results='asis'}
 Situation = c("Theory without prediction, No data(**Status quo**)",
@@ -415,7 +415,7 @@ No matter which form you register your plan, make everything you register in the
 ## Take Home Message
 
 ![](https://pbs.twimg.com/media/DjV2UuMUwAAc0sA.jpg){width=60%}  </br>
-<small>Return [Evidence Pyramid](#2/15)</small>
+<small>Return [Evidence Pyramid](#2/16)</small>
 
 
 # Q & A Part 2
